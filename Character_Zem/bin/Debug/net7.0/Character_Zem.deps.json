@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Character_Zem/1.0.0": {
+        "runtime": {
+          "Character_Zem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Character_Zem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

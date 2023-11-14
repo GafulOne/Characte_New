@@ -1,0 +1,15 @@
+C:\Users\prdb\Desktop\gRABIS\Character_Zem\bin\Debug\net7.0\Character_Zem.exe
+C:\Users\prdb\Desktop\gRABIS\Character_Zem\bin\Debug\net7.0\Character_Zem.deps.json
+C:\Users\prdb\Desktop\gRABIS\Character_Zem\bin\Debug\net7.0\Character_Zem.runtimeconfig.json
+C:\Users\prdb\Desktop\gRABIS\Character_Zem\bin\Debug\net7.0\Character_Zem.dll
+C:\Users\prdb\Desktop\gRABIS\Character_Zem\bin\Debug\net7.0\Character_Zem.pdb
+C:\Users\prdb\Desktop\gRABIS\Character_Zem\obj\Debug\net7.0\Character_Zem.csproj.AssemblyReference.cache
+C:\Users\prdb\Desktop\gRABIS\Character_Zem\obj\Debug\net7.0\Character_Zem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prdb\Desktop\gRABIS\Character_Zem\obj\Debug\net7.0\Character_Zem.AssemblyInfoInputs.cache
+C:\Users\prdb\Desktop\gRABIS\Character_Zem\obj\Debug\net7.0\Character_Zem.AssemblyInfo.cs
+C:\Users\prdb\Desktop\gRABIS\Character_Zem\obj\Debug\net7.0\Character_Zem.csproj.CoreCompileInputs.cache
+C:\Users\prdb\Desktop\gRABIS\Character_Zem\obj\Debug\net7.0\Character_Zem.dll
+C:\Users\prdb\Desktop\gRABIS\Character_Zem\obj\Debug\net7.0\refint\Character_Zem.dll
+C:\Users\prdb\Desktop\gRABIS\Character_Zem\obj\Debug\net7.0\Character_Zem.pdb
+C:\Users\prdb\Desktop\gRABIS\Character_Zem\obj\Debug\net7.0\Character_Zem.genruntimeconfig.cache
+C:\Users\prdb\Desktop\gRABIS\Character_Zem\obj\Debug\net7.0\ref\Character_Zem.dll
